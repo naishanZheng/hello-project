@@ -11,6 +11,7 @@
     <modules>
         <module>hello-rabbitMQ</module>
         <module>hello-common</module>
+        <module>hello-mongodb</module>
     </modules>
 
 
