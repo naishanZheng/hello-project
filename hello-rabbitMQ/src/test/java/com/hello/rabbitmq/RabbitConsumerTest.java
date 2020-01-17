@@ -1,6 +1,5 @@
 package com.hello.rabbitmq;
 
-import com.hello.rabbitmq.config.RabbitMQConfig;
 import com.rabbitmq.client.*;
 import org.junit.Test;
 

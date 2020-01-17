@@ -1,7 +1,6 @@
 package com.hello.rabbitmq;
 
 
-import com.hello.rabbitmq.config.RabbitMQConfig;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
